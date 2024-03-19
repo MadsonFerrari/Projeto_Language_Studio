@@ -1,9 +1,0 @@
-Cliente 1: Seu restaurante é otimo. A comida estava deliciosa e o atendimento é ótimo
-
-Cliente 2: Infelizmente fui muito mal atendido no seu restaurante. O garçon trouxe-me o pedido errado. Simplesmente é um absurdo isto!
-
-Cliente 3: Não gostei do sabor da salada vegetariana e encontrei pedaços de carne nela. Foi horrível!
-
-Cliente 4: Demorou muito o atendimento quando chamei o garçon mas a comida esta deliciosa!
-
-Cliente 5: O almoço foi bem servido e o prato estava delicioso!
